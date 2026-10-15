@@ -6,4 +6,3 @@ io.github.kukuruzka165.materialgram
 net.waterfox.waterfox
 org.equicord.equibop
 org.jeffvli.feishin
-io.github.dvlv.boxbuddyrs

@@ -1,4 +1,5 @@
 kdeconnectd
+btop
 kde-connect-nautilus
 kde-connect-libs
 kde-connect
